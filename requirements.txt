@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+unstructured
+tiktoken
+python-dotenv
+ollama
+transformers
